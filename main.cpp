@@ -1,4 +1,4 @@
-1234
+12345
 
 #include <stdio.h>
 #include "simplefs.h"
